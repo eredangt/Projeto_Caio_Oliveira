@@ -33,4 +33,8 @@ public class ClasseA{
     public String MA2(){
         return "MA2";
     }
+
+    public String MA3(){
+        return "Alteração a classe A partir do clone";
+    }
 }
