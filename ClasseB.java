@@ -33,4 +33,8 @@ public class ClasseB{
     public String MB2(){
         return "MB2";
     }
+
+    public String MB3(){
+        return "MB3";
+    }
 }
