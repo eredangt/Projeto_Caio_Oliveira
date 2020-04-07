@@ -33,3 +33,8 @@ public class ClasseC{
     public String MC2(){
         return "MC2";
     }
+
+    public String MB3(){
+        return "MB3";
+    }
+}
