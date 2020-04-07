@@ -34,7 +34,7 @@ public class ClasseC{
         return "MC2";
     }
 
-    public String MB3(){
-        return "MB3";
+    public String MC3(){
+        return "MC3";
     }
 }
