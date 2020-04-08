@@ -37,4 +37,8 @@ public class ClasseC{
     public String MD3(){
         return "MD3";
     }
+    
+    public String MD4(){
+        return "MD4";
+    }
 }
