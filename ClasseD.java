@@ -33,4 +33,8 @@ public class ClasseC{
     public String MD2(){
         return "MD2";
     }
+
+    public String MD3(){
+        return "MD3";
+    }
 }
